@@ -1,0 +1,18 @@
+# Compiled output
+*.o
+*.exe
+*.out
+a.out
+scms
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.DS_Store
+*.suo
+*.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/

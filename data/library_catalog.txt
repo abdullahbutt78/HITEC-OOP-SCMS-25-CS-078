@@ -1,0 +1,3 @@
+Book|B001|C++ How to Program|Deitel|2020|978-0-13-524674-4|CS|3
+Book|B002|The C++ Programming Language|Stroustrup|2013|978-0-321-56384-2|CS|2
+Journal|J001|IEEE Transactions on SE|IEEE|2023|0098-5589|12|4

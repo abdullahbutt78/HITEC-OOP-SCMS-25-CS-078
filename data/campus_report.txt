@@ -1,0 +1,13 @@
+HITEC UNIVERSITY - CAMPUS REPORT
+============================================================
+
+Total Students : 4
+Total Faculty  : 2
+Total Courses  : 2
+Library Items  : 3
+
+--- Students (sorted by GPA) ---
+21-CS-001 | Ahmed Ali | GPA: 3.8
+22-MS-001 | Fatima Naz | GPA: 3.6
+21-CS-002 | Sara Khan | GPA: 3.2
+20-CS-010 | Usman Malik | GPA: 2.9

@@ -68,4 +68,4 @@ mkdir -p data
 ![Class Diagram](docs/class_diagram.png)
 
 ## GitHub Repository
-https://github.com/[username]/HITEC-OOP-SCMS-[RollNo]
+https://github.com/abdullahbutt78/HITEC-OOP-SCMS-[25-CS-078]

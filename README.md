@@ -1,7 +1,7 @@
 # Smart Campus Management System (SCMS)
 
 ## Project Info
-- **Student:** [Your Name] | **Roll No:** [XXXX] | **Course:** CS-104L: OOP | **HITEC University Taxila**
+- **Student:** Abdullah Butt | **Roll No:** 25-CS-078 | **Course:** CS-104L: OOP | **HITEC University Taxila**
 
 ## Project Description
 The Smart Campus Management System (SCMS) is a fully object-oriented C++17 console application that models the key operations of a university campus. It manages students, faculty, staff, courses, library items, hostel rooms, and student fees through six tightly integrated modules. Every core OOP concept taught in CS-104L — from abstract classes and runtime polymorphism to copy semantics, operator overloading, and custom exceptions — is demonstrated in a real-world context. The system also persists library data to disk using `fstream` and generates a consolidated campus report at runtime.
